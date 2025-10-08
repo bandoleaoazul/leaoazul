@@ -3,6 +3,6 @@ title: Novo
 publish: "false"
 ---
 
-# <% tp.file.title %>
+# Sem título
 Texto Padrão
 
