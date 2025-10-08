@@ -2,7 +2,7 @@
 title: Valerius, o Corretor
 publish: "true"
 ---
-
+![[Pasted image 20251008010646.png]]
 ### **O Negociador de Contratos**
 
 **Valerius "O Corretor"** é uma anomalia em [[Maguna]]: ele é possui a reputação de ser **confiável**.
@@ -15,4 +15,4 @@ A sua chegada à igreja é sempre um **evento** (uma "comoção"), pois ele traz
 
 ### **A Reputação em Risco**
 
-A crise do **Ruído Estranho** nas catacumbas o enfurece. Para Valerius, o barulho é um sinal de **má administração interna** que está a minar a credibilidade que ele trabalhou tanto para construir. Ele tem em mãos um contrato épico (um ganho massivo de XP e Tesouro para os PJs) de um monarca de alto escalão, mas não o entregará a um grupo que não consegue controlar o próprio quartel-general.
+A crise do **Ruído Estranho** nas catacumbas o enfurece. Para Valerius, o barulho é um sinal de **má administração interna** que está a minar a credibilidade que ele trabalhou tanto para construir. Ele tem em mãos contratos épicos, mas não os entregará a um grupo que não consegue controlar o próprio quartel-general.
