@@ -2,6 +2,7 @@
 title: Grut, o Mestre-de-Armas
 publish: "true"
 ---
+![[Pasted image 20251008001123.png]]
 ### **O Custo da Sobrevivência**
 
 **Mestre Grut** é o custo da guerra tornado carne. Este veterano humano, massivo e carregado de cicatrizes, perdeu **metade do braço esquerdo** (substituído por um gancho rudimentar) e um **olho** em batalhas que ele já esqueceu. Ele se move com uma surpreendente agilidade, mas o peso dos mortos é a sua verdadeira armadura, e ele a alivia com o **álcool**. Ele é **ranzinza, brutal e frequentemente deprimido**, mas os seus pupilos são fanaticamente leais, pois sabem que a sua dureza é a única coisa que os mantém vivos.

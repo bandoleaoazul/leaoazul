@@ -2,6 +2,7 @@
 title: Calebe, o Taverneiro
 publish: "true"
 ---
+![[Pasted image 20251007234456.png]]
 ### **O Almoço da Loucura**
 
 **Mestre Calebe** é o toque de conforto e o sopro da insanidade no Bando do Leão Azul.
