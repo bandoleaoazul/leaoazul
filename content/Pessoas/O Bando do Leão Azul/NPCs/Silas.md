@@ -2,6 +2,7 @@
 title: Silas, o Antiquário
 publish: "true"
 ---
+![[Pasted image 20251008004058.png]]
 ### **O Valor do Risco**
 
 **Silas "O Dourado"** é o lado mais perigoso da ganância. Este humano, com a sua aura cigana e vestes coloridas mas discretas, opera à margem, num beco seguro, fora das paredes da igreja. Ele não tem o medo de **[[Borin]] "Ferro-Curto"** ou a disciplina de **[[Hilda]] "Martelo-Fiel"**; o seu mundo é a magia e o valor intrínseco dos objetos.
