@@ -2,6 +2,7 @@
 title: Hilda, a Ferreira
 publish: "true"
 ---
+![[Pasted image 20251007233245.png]]
 ### **A Amiga do Aço**
 
 **Hilda "Martelo-Fiel"** é a **âncora de seriedade** do Bando do Leão Azul. 
